@@ -1,4 +1,4 @@
-#Hi There
+
 <h1 align="center">Hi 👋, I'm Ikshita Bhatnagar</h1>
 
 <p align="center">
